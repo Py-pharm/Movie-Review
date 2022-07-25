@@ -1,0 +1,5 @@
+# Movie-Review
+
+Rotten Tomatoes is a popular movie rating website. The dataset used in this project is from rotten tomatoes, and contains the top 100 movies of all time. It describes the rating(in %) and number of reviews for each movie. The review(in %) is the percentage of approved Tomatometer Critics who have given the movies a positive review. There is also the audience score(in %) for each movie in the movie page. This metric is not included in the top 100 list and would be extracted from the website through web scraping. Would'nt it be cool to compare the credit scores and the audience scores to see which movie is trully the best?
+
+'Roger Ebert' is another movie review website. Most people like Roger Ebert because it explains movie in such a way that they would know whether they would like it or not. Wouldn't it be good if we have a word cloud for each of the movie in that top 100 list with the Roger Ebert review text in that word cloud for each movie? Having a word cloud for each movie would give us a snapshot of what makes each movie great.
